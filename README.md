@@ -15,5 +15,3 @@ installing the desired version during the build (see amplify.yml). For example y
 `canary` or `13.4.12`.
 
 ..
-
-sdf
